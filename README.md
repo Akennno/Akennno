@@ -1,6 +1,6 @@
 # Ak3no
 
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![Version](https://camo.githubusercontent.com/849a6fe2c263d8bc47b4f4203649b0e69316eb24d1bc33f7696c9afa085c35ea/68747470733a2f2f692e696d6775722e636f6d2f564a4c486a664d2e706e67)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![Language](https://img.shields.io/badge/Language-Python-yellow)
