@@ -2,4 +2,4 @@
 
 Just Junior Developer.
 
-bisa bahasa cator omaigat
+bisa bahasa catur omaigat
