@@ -1,6 +1,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
 <h1 id="olá-bem-vindo-ao-meu-perfil-do-github">Hi👋, Welcome to my github profile</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=27&amp;center=false&amp;lines=Meu+Nome+é+Marcia+Gabrielle...;Tenho+21+anos+...;Estudante+de+Ciência+da+Computação...">
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=27&amp;center=false&amp;lines=Meu+Nome+é+Marcia+Gabrielle...;Tenho+21+anos+...;Estudante+de+Ciência+da+Computação..."> -->
  <p>- <i>Love coding.</i></p>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBidTB2OGp4dWFub281ZGJ3c2IzZnlvc2kxZmdya25hejU5cnVoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yBTjyOcl9gXjbFFEg0/giphy.gif" width="45%" align="right">
 <h2 id="️-sobre-mim">⚡🙋‍♂️ About me</h2>
@@ -22,9 +22,9 @@
 </div>
 <div bis_skin_checked="1">
 <div align="center" bis_skin_checked="1"> 
-<a href="https://www.instagram.com/marcy_bonifacio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" &#x3c;="" a="">
-</a><a href="mailto:cmp.1a.gabybonifacio2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marcia-oliveira-956994205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="border-radius: 50px" target="_blank"></a> 
+<a href="https://www.instagram.com/-/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" &#x3c;="" a="">
+</a><a href="mailto:ankwo8392@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="border-radius: 50px" target="_blank"></a> 
  </div>
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Akennno}/count.svg"></p> 
